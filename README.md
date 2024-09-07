@@ -1,4 +1,4 @@
-<h3 align="left">Olá, tudo bem? 👋🏻 Aqui está um resumo do que aprendi e continuo desenvolvendo profissionalmente. <br><br>Agradeço por conferir meus projetos e trabalhos, tanto acadêmicos quanto pessoais.<br><br>Para mais detalhes sobre minha trajetória profissional, veja meu LinkedIn e outras redes abaixo. Espero que gostem!</h3>
+<h3 align="left">Oi! 👋🏻<br><br>Quero compartilhar um pouco do que venho aprendendo e desenvolvendo ao longo da minha jornada, tanto em projetos pessoais quanto acadêmicos. 💼📚<br><br>Minhas experiências e atribuições estão disponíveis no LinkedIn e ou mesmo se conectar comigo no Instagram. 🤝✨<br><br>Espero que curta! 😄👍</h3>
 
 ###
 
@@ -50,7 +50,19 @@
 
 ###
 
-<h3 align="left">- Filmes<br>- Esporte<br>- Cinema<br>- Eventos<br>- Conhecimentos Gerais<br>- Mídias<br>- Impressões 3D<br>- Finanças - Bolsa de Valores (Derivativos de Risco - Opções)<br>- Animais</h3>
+<h3 align="left">- Filmes<br>- Esporte<br>- Cinema<br>- Finanças - Bolsa de Valores (Derivativos de Risco - Opções) 📈📉<br>- Cachorros 🐶e Gatos 🐱</h3>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleycarvalhopereira.wesleycarvalhopereira&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
