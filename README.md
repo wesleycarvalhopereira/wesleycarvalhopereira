@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">- Filmes<br>- Esporte<br>- Cinema<br>- Finanças - Bolsa de Valores (Derivativos de Risco - Opções) 📈📉<br>- Cachorros 🐶e Gatos 🐱</h3>
+<h3 align="left">- Filmes<br>- Esporte<br>- Finanças - Bolsa de Valores (Derivativos de Risco - Opções) 📈📉<br>- Cachorros 🐶e Gatos 🐱</h3>
 
 ###
 
