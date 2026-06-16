@@ -32,23 +32,38 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 
 <div align="center">
 
+<!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 &nbsp;&nbsp;
 
+<!-- SQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL / MySQL" />
 &nbsp;&nbsp;
 
+<!-- Análise de Dados -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Data Analysis" />
+&nbsp;&nbsp;
+
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/48/power-bi.png" height="45" alt="Power BI" />
+&nbsp;&nbsp;
+
+<!-- Machine Learning -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Machine Learning" />
+&nbsp;&nbsp;
+
+<!-- Inteligência Artificial -->
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="45" alt="Artificial Intelligence" />
+&nbsp;&nbsp;
+
+<!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 &nbsp;&nbsp;
 
+<!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 
 </div>
-
-<p align="center">
 
 📊 Análise de Dados • 📈 Power BI • 🤖 Machine Learning • ⚙️ Automação de Processos • 🧠 IA Aplicada
 
