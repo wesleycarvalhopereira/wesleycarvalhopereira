@@ -35,7 +35,7 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 &nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL / MySQL" />
 &nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
@@ -48,8 +48,11 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 
 </div>
 
----
+<p align="center">
 
+📊 Análise de Dados • 📈 Power BI • 🤖 Machine Learning • ⚙️ Automação de Processos • 🧠 IA Aplicada
+
+</p>
 ## 🎯 Projetos em Destaque
 
 Atualmente estou construindo e compartilhando projetos relacionados a:
