@@ -1,16 +1,34 @@
-<center><h2> Olá, sou o Wesley e sejam muito bem vindos ao meu Github! </h2></center><br>
+# Olá, sou o Wesley. Seja muito bem-vindo ao meu GitHub! 🚀
 
-Aqui compartilho minha jornada de aprendizado e evolução na área de Dados e Inteligência Artificial, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas durante minha formação e aperfeiçoamento profissional. 📊🤖<br><br>
+Aqui compartilho minha jornada de aprendizado e evolução na área de **Dados e Inteligência Artificial**, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas ao longo da minha formação e aperfeiçoamento profissional. 📊🤖
 
-Atualmente estou aprofundando conhecimentos em Python, SQL, Análise de Dados, Power BI, Machine Learning, Automação de Processos e IA Aplicada, transformando aprendizado em soluções e projetos reais. 💡<br><br>
+Atualmente, estou aprofundando meus conhecimentos em:
 
-Este repositório representa minha evolução contínua, minha dedicação ao aprendizado e meu compromisso com o desenvolvimento de competências voltadas para o mercado de tecnologia e dados. 📈<br><br>
+- Python
+- SQL
+- Análise de Dados
+- Power BI
+- Machine Learning
+- Automação de Processos
+- IA Aplicada
 
-Você também pode acompanhar minha trajetória profissional através do LinkedIn ou entrar em contato para trocar experiências e conhecimentos. 🤝✨<br><br>
+Transformando aprendizado em soluções e projetos reais. 💡
 
-Espero que os projetos sejam úteis e inspiradores para sua jornada. Seja muito bem-vindo! 😄👍
+Os repositórios disponíveis neste perfil representam minha evolução contínua, minha dedicação ao aprendizado e meu compromisso com o desenvolvimento de competências voltadas para o mercado de tecnologia e dados. 📈
 
-</h3>
+## Tecnologias e Competências
+
+**Python | SQL | Análise de Dados | Power BI | Machine Learning | IA Aplicada | Git & GitHub**
+
+## Conecte-se comigo
+
+Você também pode acompanhar minha trajetória profissional através do LinkedIn ou entrar em contato para trocar experiências, conhecimentos e oportunidades profissionais. 🤝✨
+
+## Objetivo
+
+Espero que os projetos aqui compartilhados sejam úteis, inspirem outros profissionais em sua jornada de aprendizado e demonstrem minha paixão por tecnologia, dados e inovação.
+
+Obrigado pela visita e fique à vontade para explorar os repositórios! 😄👍
 
 ###
 
