@@ -100,28 +100,28 @@ Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvend
 
 ###
 
-<h2 align="left">Meus interesses:</h2>
+<h2 align="left">🎯 Interesses e Áreas de Interesse</h2>
 
-###
+<h3 align="left">
 
-<h3 align="left">- Filmes<br>- Esporte<br>- Finanças - Bolsa de Valores (Derivativos de Risco - Opções) 📈📉<br>- Cachorros 🐶e Gatos 🐱</h3>
+🎬 Filmes e séries
 
-###
+⚽ Esportes e bem-estar
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleycarvalhopereira.wesleycarvalhopereira&"  />
-</div>
+📊 Mercado Financeiro e Investimentos
 
-###
+📈 Estratégias com Derivativos e Opções
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+🤖 Tecnologia, Dados e Inteligência Artificial
 
-###
+🐶 Apaixonado por cachorros e 🐱 gatos
+
+</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wesleycarvalhopereira/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleycarvalhopereira.wesleycarvalhopereira" />
 </div>
 
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wesleycarvalhopereira/count.svg" />
+</div>
