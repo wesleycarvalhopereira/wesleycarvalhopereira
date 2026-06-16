@@ -1,4 +1,4 @@
-# Olá, tudo bem?! Sou o Wesley e muito bem vindo ao meu Github!
+<center><h2> Olá, sou o Wesley e sejam muito bem vindos ao meu Github! </h2></center>
 
 <h3 align="left">Oi! 👋🏻<br><br>Quero compartilhar um pouco do que venho aprendendo e desenvolvendo ao longo da minha jornada, tanto em projetos pessoais quanto acadêmicos. 💼📚<br><br>Minhas experiências e atribuições estão disponíveis no LinkedIn e ou mesmo se conectar comigo no Instagram. 🤝✨<br><br>Espero que curta! 😄👍</h3>
 
