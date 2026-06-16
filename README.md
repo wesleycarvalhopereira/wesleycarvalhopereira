@@ -41,11 +41,11 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 &nbsp;&nbsp;
 
 <!-- Análise de Dados -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Data Analysis" />
+<img src="https://img.icons8.com/?size=100&id=CSl927pZV7TI&format=png&color=000000" height="45" alt="Data Analysis" />
 &nbsp;&nbsp;
 
 <!-- Power BI -->
-<img src="https://img.icons8.com/color/48/power-bi.png" height="45" alt="Power BI" />
+<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="45" alt="Power BI" />
 &nbsp;&nbsp;
 
 <!-- Machine Learning -->
@@ -61,7 +61,7 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 &nbsp;&nbsp;
 
 <!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" height="45" alt="GitHub" />
 
 </div>
 
