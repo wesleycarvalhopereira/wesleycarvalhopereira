@@ -4,7 +4,7 @@
 
 Aqui compartilho minha jornada de aprendizado e evolução na área de **Dados e Inteligência Artificial**, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas ao longo da minha formação e aperfeiçoamento profissional.
 
-Atualmente, estou desenvolvendo competências em:
+📚 Atualmente, estou desenvolvendo competências e estudando:
 
 - 🐍 Python
 - 🗄️ SQL e Bancos de Dados
@@ -86,18 +86,6 @@ Atualmente estou construindo e compartilhando projetos relacionados a:
 Acredito no aprendizado contínuo e no poder da tecnologia para transformar dados em conhecimento, conhecimento em decisões e decisões em resultados.
 
 Cada repositório representa um passo da minha evolução profissional e do meu compromisso com a construção de soluções práticas através da tecnologia.
-
----
-
-## 📚 Atualmente Estudando
-
-- Python
-- SQL
-- Análise de Dados
-- Power BI
-- Machine Learning
-- Automação com IA
-- Git & GitHub
 
 ---
 
