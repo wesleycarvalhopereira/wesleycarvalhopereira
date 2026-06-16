@@ -1,38 +1,29 @@
-# Olá, sou o Wesley. Seja muito bem-vindo ao meu GitHub! 🚀
+# Olá, sou o Wesley! 🚀
 
-Aqui compartilho minha jornada de aprendizado e evolução na área de **Dados e Inteligência Artificial**, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas ao longo da minha formação e aperfeiçoamento profissional. 📊🤖
+### 📊 Python • SQL • Análise de Dados • Power BI • Machine Learning • IA Aplicada
 
-Atualmente, estou aprofundando meus conhecimentos em:
+Aqui compartilho minha jornada de aprendizado e evolução na área de **Dados e Inteligência Artificial**, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas ao longo da minha formação e aperfeiçoamento profissional.
 
-- Python
-- SQL
-- Análise de Dados
-- Power BI
-- Machine Learning
-- Automação de Processos
-- IA Aplicada
+Atualmente, estou desenvolvendo competências em:
 
-Transformando aprendizado em soluções e projetos reais. 💡
+- 🐍 Python
+- 🗄️ SQL e Bancos de Dados
+- 📊 Análise de Dados
+- 📈 Power BI
+- 🤖 Machine Learning
+- ⚙️ Automação de Processos
+- 🧠 Inteligência Artificial Aplicada
+- 🌱 Git & GitHub
 
-Os repositórios disponíveis neste perfil representam minha evolução contínua, minha dedicação ao aprendizado e meu compromisso com o desenvolvimento de competências voltadas para o mercado de tecnologia e dados. 📈
+Meu objetivo é transformar dados em informações estratégicas, informações em conhecimento e conhecimento em soluções que gerem valor para negócios e pessoas.
 
-## Tecnologias e Competências
-
-**Python | SQL | Análise de Dados | Power BI | Machine Learning | IA Aplicada | Git & GitHub**
-
-## Objetivo
-
-Espero que os projetos aqui compartilhados sejam úteis, inspirem outros profissionais em sua jornada de aprendizado e demonstrem minha paixão por tecnologia, dados e inovação.
-
-Obrigado pela visita e fique à vontade para explorar os repositórios! 😄👍
-
-###
+---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleycarvalhopereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleycarvalhopereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleycarvalhopereira&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycarvalhopereira&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -42,78 +33,89 @@ Obrigado pela visita e fique à vontade para explorar os repositórios! 😄👍
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-<img width="25" />
+&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-<img width="25" />
+&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-<img width="25" />
+&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-<img width="25" />
+&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-<img width="25" />
 
 </div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+Atualmente estou construindo e compartilhando projetos relacionados a:
+
+- 📊 Análise de Dados com Python
+- 🗄️ Consultas e Modelagem de Dados com SQL
+- 📈 Dashboards e Business Intelligence com Power BI
+- ⚙️ Automação de Processos
+- 🤖 Machine Learning
+- 🧠 Inteligência Artificial Aplicada
+
+---
+
+## 🎯 Minha Missão
+
+Acredito no aprendizado contínuo e no poder da tecnologia para transformar dados em conhecimento, conhecimento em decisões e decisões em resultados.
+
+Cada repositório representa um passo da minha evolução profissional e do meu compromisso com a construção de soluções práticas através da tecnologia.
 
 ---
 
 ## 📚 Atualmente Estudando
 
-* Python
-* SQL
-* Análise de Dados
-* Power BI
-* Machine Learning
-* Automação com IA
-* Git & GitHub
+- Python
+- SQL
+- Análise de Dados
+- Power BI
+- Machine Learning
+- Automação com IA
+- Git & GitHub
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Interesses
 
-Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvendo soluções que transformem dados em informações estratégicas para apoiar decisões e gerar valor para negócios e pessoas.
+- 📊 Dados e Inteligência Artificial
+- 📈 Mercado Financeiro e Estratégias com Opções
+- 🤖 Automação e Tecnologia
+- ⚽ Esportes e Bem-Estar
+- 🎬 Filmes e Séries
+- 🐶 Cachorros e 🐱 Gatos
 
-###
+---
 
-<h2 align="left">🎯 Interesses e Áreas de Interesse</h2>
+## 🤝 Vamos nos Conectar
 
-<h3 align="left">
+Fique à vontade para explorar os repositórios e acompanhar minha trajetória profissional.
 
-🎬 Filmes e séries
+Sempre aberto para trocar experiências, conhecimentos e oportunidades relacionadas à tecnologia, dados e inteligência artificial.
 
-⚽ Esportes e bem-estar
+<div align="center">
 
-📊 Mercado Financeiro e Investimentos
+<a href="https://www.linkedin.com/in/wesley-carvalho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-📈 Estratégias com Derivativos e Opções
+<a href="https://www.instagram.com/wgold_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@wgold__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-🤖 Tecnologia, Dados e Inteligência Artificial
+</div>
 
-🐶 Apaixonado por cachorros e 🐱 gatos
-
-</h3>
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleycarvalhopereira.wesleycarvalhopereira" />
 </div>
 
-## Conecte-se comigo
-
-Você também pode acompanhar minha trajetória profissional através do LinkedIn ou entrar em contato para trocar experiências, conhecimentos e oportunidades profissionais. 🤝✨
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wesley-carvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.instagram.com/wgold_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@wgold__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wesleycarvalhopereira/count.svg" />
-</div>
+**Obrigado pela visita! 🚀**
