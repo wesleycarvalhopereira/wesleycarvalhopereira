@@ -39,25 +39,58 @@ Obrigado pela visita e fique à vontade para explorar os repositórios! 😄👍
 
 ###
 
-<h2 align="left">Ferramentas que utilizo:</h2>
-
-###
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleycarvalhopereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleycarvalhopereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img width="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="Jira" />
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+* Python
+* SQL
+* Análise de Dados
+* Power BI
+* Machine Learning
+* Automação com IA
+* Git & GitHub
+
+---
+
+## 🎯 Objetivo Profissional
+
+Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvendo soluções que transformem dados em informações estratégicas para apoiar decisões e gerar valor para negócios e pessoas.
 
 ###
 
