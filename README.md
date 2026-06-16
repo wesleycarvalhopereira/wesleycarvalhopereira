@@ -1,7 +1,5 @@
 <center><h2> Olá, sou o Wesley e sejam muito bem vindos ao meu Github! </h2></center><br>
 
-<h3> Bem-vindo ao meu GitHub! 🚀<br><br>
-
 Aqui compartilho minha jornada de aprendizado e evolução na área de Dados e Inteligência Artificial, por meio de projetos práticos, estudos, desafios e aplicações desenvolvidas durante minha formação e aperfeiçoamento profissional. 📊🤖<br><br>
 
 Atualmente estou aprofundando conhecimentos em Python, SQL, Análise de Dados, Power BI, Machine Learning, Automação de Processos e IA Aplicada, transformando aprendizado em soluções e projetos reais. 💡<br><br>
