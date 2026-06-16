@@ -67,18 +67,6 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 
 📊 Análise de Dados • 📈 Power BI • 🤖 Machine Learning • ⚙️ Automação de Processos • 🧠 IA Aplicada
 
-</p>
-## 🎯 Projetos em Destaque
-
-Atualmente estou construindo e compartilhando projetos relacionados a:
-
-- 📊 Análise de Dados com Python
-- 🗄️ Consultas e Modelagem de Dados com SQL
-- 📈 Dashboards e Business Intelligence com Power BI
-- ⚙️ Automação de Processos
-- 🤖 Machine Learning
-- 🧠 Inteligência Artificial Aplicada
-
 ---
 
 ## 🎯 Minha Missão
@@ -86,6 +74,19 @@ Atualmente estou construindo e compartilhando projetos relacionados a:
 Acredito no aprendizado contínuo e no poder da tecnologia para transformar dados em conhecimento, conhecimento em decisões e decisões em resultados.
 
 Cada repositório representa um passo da minha evolução profissional e do meu compromisso com a construção de soluções práticas através da tecnologia.
+
+---
+
+## 🎯 Projetos em Destaque
+
+### Atualmente estou construindo e compartilhando projetos relacionados a:
+
+- 📊 Análise de Dados com Python
+- 🗄️ Consultas e Modelagem de Dados com SQL
+- 📈 Dashboards e Business Intelligence com Power BI
+- ⚙️ Automação de Processos
+- 🤖 Machine Learning
+- 🧠 Inteligência Artificial Aplicada
 
 ---
 
@@ -125,3 +126,6 @@ Sempre aberto para trocar experiências, conhecimentos e oportunidades relaciona
 </div>
 
 **Obrigado pela visita! 🚀**
+
+> *"Não importa quão devagar você vá, desde que não pare."* — Confúcio <br>
+> *"Sempre parece impossível até que seja feito."* — Nelson Mandela
