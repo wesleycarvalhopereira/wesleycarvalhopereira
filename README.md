@@ -20,10 +20,6 @@ Os repositórios disponíveis neste perfil representam minha evolução contínu
 
 **Python | SQL | Análise de Dados | Power BI | Machine Learning | IA Aplicada | Git & GitHub**
 
-## Conecte-se comigo
-
-Você também pode acompanhar minha trajetória profissional através do LinkedIn ou entrar em contato para trocar experiências, conhecimentos e oportunidades profissionais. 🤝✨
-
 ## Objetivo
 
 Espero que os projetos aqui compartilhados sejam úteis, inspirem outros profissionais em sua jornada de aprendizado e demonstrem minha paixão por tecnologia, dados e inovação.
@@ -82,24 +78,6 @@ Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvend
 
 ###
 
-<h2 align="left">Meus contatos:</h2>
-
-###
-
-<h2 align="center">🌐 Conecte-se comigo</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wesley-carvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.instagram.com/wgold_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@wgold__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-###
-
 <h2 align="left">🎯 Interesses e Áreas de Interesse</h2>
 
 <h3 align="left">
@@ -120,6 +98,20 @@ Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvend
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wesleycarvalhopereira.wesleycarvalhopereira" />
+</div>
+
+## Conecte-se comigo
+
+Você também pode acompanhar minha trajetória profissional através do LinkedIn ou entrar em contato para trocar experiências, conhecimentos e oportunidades profissionais. 🤝✨
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wesley-carvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/wgold_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@wgold__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
 
 <div align="center">
