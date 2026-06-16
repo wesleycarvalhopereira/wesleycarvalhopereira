@@ -86,12 +86,15 @@ Construir uma carreira sólida em Dados e Inteligência Artificial, desenvolvend
 
 ###
 
+<h2 align="center">🌐 Conecte-se comigo</h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-carvalho/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.instagram.com/wgold_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-@wgold__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
