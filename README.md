@@ -22,8 +22,9 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleycarvalhopereira&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /> <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycarvalhopereira&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleycarvalhopereira&show_icons=true&theme=dracula" height="150" alt="Wesley GitHub Stats" /><br>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycarvalhopereira&layout=compact&theme=dracula" height="150" alt="Wesley Top Languages" /><br>
 </div>
 
 ---
@@ -65,7 +66,9 @@ Meu objetivo é transformar dados em informações estratégicas, informações 
 
 </div>
 
-📊 Análise de Dados • 📈 Power BI • 🤖 Machine Learning • ⚙️ Automação de Processos • 🧠 IA Aplicada
+<div align="center">
+📊 Análise de Dados • 📈 Power BI • 🤖 Machine Learning • ⚙️ Automação de Processos • 🧠 IA Aplicada  
+</div>
 
 ---
 
